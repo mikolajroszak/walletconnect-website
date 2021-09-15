@@ -5,7 +5,7 @@
   "author": "Pedro Gomes <pedro@walletconnect.org>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.11.1",
-    "gatsby": "^2.24.73",
+    "gatsby": "^3.13.0",
     "gatsby-link": "^2.4.15",
     "gatsby-plugin-google-analytics": "^2.3.17",
     "gatsby-plugin-react-helmet": "^3.3.14",
@@ -47,7 +47,7 @@
     "@types/react-helmet": "^5.0.8",
     "@types/styled-components": "^4.1.6",
     "babel-eslint": "^10.1.0",
-    "eslint": "^5.10.0",
+    "eslint": "^7.16.0",
     "eslint-config-react-app": "^3.0.5",
     "eslint-plugin-flowtype": "^3.2.0",
     "eslint-plugin-import": "^2.22.1",
