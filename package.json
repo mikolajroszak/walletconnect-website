@@ -7,7 +7,7 @@
     "babel-plugin-styled-components": "^1.11.1",
     "gatsby": "^2.24.73",
     "gatsby-link": "^2.4.15",
-    "gatsby-plugin-google-analytics": "^2.3.17",
+    "gatsby-plugin-google-analytics": "^5.1.0",
     "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-styled-components": "^3.3.14",
     "gatsby-plugin-typescript": "^2.4.21",
